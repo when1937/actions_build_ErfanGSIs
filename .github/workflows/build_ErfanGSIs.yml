@@ -16,7 +16,6 @@ on:
 env:
   ROM_URL: http://download.meizu.com/Firmware/Flyme/m2391/10.0.2.0/demo/20230329190409/969555af/update.zip
   ROM_NAME: flyme
-  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
