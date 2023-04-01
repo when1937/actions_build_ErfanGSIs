@@ -31,7 +31,7 @@ jobs:
          run: |
             sudo -E apt-get -qq install git wget
         
-        - name: python3
+       - name: python3
          run: |
             sudo apt-get update
             sudo apt-get install python3.8
